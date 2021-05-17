@@ -1,0 +1,7 @@
+C:\Users\storm\Desktop\UdpBroadcastSender\UdpBroadcastSender\bin\Debug\UdpBroadcastSender.exe.config
+C:\Users\storm\Desktop\UdpBroadcastSender\UdpBroadcastSender\bin\Debug\UdpBroadcastSender.exe
+C:\Users\storm\Desktop\UdpBroadcastSender\UdpBroadcastSender\bin\Debug\UdpBroadcastSender.pdb
+C:\Users\storm\Desktop\UdpBroadcastSender\UdpBroadcastSender\obj\Debug\UdpBroadcastSender.csprojAssemblyReference.cache
+C:\Users\storm\Desktop\UdpBroadcastSender\UdpBroadcastSender\obj\Debug\UdpBroadcastSender.csproj.CoreCompileInputs.cache
+C:\Users\storm\Desktop\UdpBroadcastSender\UdpBroadcastSender\obj\Debug\UdpBroadcastSender.exe
+C:\Users\storm\Desktop\UdpBroadcastSender\UdpBroadcastSender\obj\Debug\UdpBroadcastSender.pdb
